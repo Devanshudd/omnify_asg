@@ -344,7 +344,7 @@ const WaitlistTable = () => {
 
         <div className="relative">
           <div
-            className="bg-gray-200 text-black py-2 px-4 rounded ml-4 cursor-pointer"
+            className="bg-gray-200 text-black py-2 px-4 rounded ml-14 cursor-pointer"
             onClick={toggleColumnEditor}
           >
             <svg
@@ -367,7 +367,7 @@ const WaitlistTable = () => {
               className="absolute bg-white shadow-lg rounded p-4 z-10"
               style={{ top: "100%", left: 0, width: "250px" }}
             >
-              <h3 className="text-lg font-bold">Edit Columns</h3>
+              <h3 className="text-lg font-bold mr-5">Edit Columns</h3>
               <div className="flex flex-col space-y-2 mt-2">
                 {columns.map((column) => (
                   <label
