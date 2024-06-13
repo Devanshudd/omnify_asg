@@ -1,70 +1,50 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Modern Table with Expandable Sidebar
 
-## Available Scripts
+Welcome to the **Modern Table with Expandable Sidebar** project! This application, built with React and styled using Tailwind CSS, offers a dynamic and user-friendly interface for managing and displaying data. Key features include search functionality, filter components, and an expandable sidebar for additional navigation or content.
 
-In the project directory, you can run:
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To set up and run the project locally:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Run `npm i` to install dependencies
+- Run `npm start`
+- Open [http://localhost:3000](http://localhost:3000) to see the working application.
 
-### `npm test`
+## Checkout this on Playground:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[https://omnify-asg.vercel.app/](https://omnify-asg.vercel.app/)
 
-### `npm run build`
+## Working Demo:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[omnify_asg_recording.webm](https://github.com/Devanshudd/omnify_asg/assets/100607040/cc2cc692-8c49-48b4-a59f-73a914e996b6)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🌟 Modern Table
+- **Search Functionality**: Quickly find the data you need with an integrated search bar.
+- **Filter Component**: Easily filter your table data based on various criteria to suit your needs.
+- **Dynamic Functionality**: Reactively update and interact with your data without page reloads.
 
-### `npm run eject`
+### 📚 Expandable Sidebar
+- **Responsive Design**: The sidebar adapts seamlessly to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
+- **Expandable/Collapsible**: Toggle the sidebar open or closed to maximize your workspace or provide quick access to additional content.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **React**: A powerful JavaScript library for building user interfaces, providing the backbone for our dynamic and interactive features.
+- **Tailwind CSS**: A highly customizable, utility-first CSS framework that allows for rapid UI development without leaving your HTML.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Key Functionalities
 
-## Learn More
+- **Search**: Use the search bar to filter through the table data quickly.
+- **Filter**: Apply various filters to narrow down the displayed data.
+- **Sidebar Navigation**: Use the expandable sidebar for additional options and navigation.
+- **Dynamic Table**: Interact with table entries directly, including sorting and editing.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
